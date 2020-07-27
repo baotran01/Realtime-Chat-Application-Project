@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+Realtime Chat App for interacting with your friends using React.js, Express, Node.js and Socket.io. 
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
