@@ -44,7 +44,7 @@ Set up the server
 
 ```
 cd server
-npm init
+npm install
 nodemon server
 ```
 
@@ -52,13 +52,13 @@ Set up client side
 
 ```
 cd client
-npm init
+npm install
 npm start
 ```
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Author <a name = "authors"></a>
 [@baotran01](https://github.com/baotran01)
 
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 Acknowledgement <a name = "acknowledgement"></a>
 - Hat tip to : Javascript Mastery for Socket.io tutorial
