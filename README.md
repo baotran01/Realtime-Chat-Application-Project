@@ -24,14 +24,14 @@
 </p>
 
 ## 📝 Table of Contents
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
+- [About](#about)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+
+## 🧐 About <a name = "about"></a>
+Write about 1-2 paragraphs describing the purpose of your project.
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [React.js](https://reactjs.org/) - Web Framework
@@ -39,38 +39,22 @@
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Socket.io](https://socket.io/) - Realtime Engine
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-What things you need to install the software and how to install them.
+### Installation
+Set up the server
 
 ```
-Give examples
+cd server
+npm init
+nodemon server
 ```
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Set up client side
 
 ```
-Give the example
+cd client
+npm init
+npm start
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 [@baotran01](https://github.com/baotran01)
