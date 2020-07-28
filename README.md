@@ -61,4 +61,4 @@ npm start
 
 
 ## 🎉 Acknowledgement <a name = "acknowledgement"></a>
-- Hat tip to : Javascript Mastery for Socket.io tutorial
+- Hat tip to : Javascript Mastery for Socket.io tutorial.
