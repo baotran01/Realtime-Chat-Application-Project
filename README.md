@@ -39,7 +39,7 @@ Realtime Chat App for interacting with your friends using React.js, Express, Nod
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Socket.io](https://socket.io/) - Realtime Engine
 
-### Installation
+### 🔧 Installation
 Set up the server
 
 ```
